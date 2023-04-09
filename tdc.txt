@@ -1,9 +1,4 @@
 day la file tdc cua main chinh
 
 day là file moi sua tu local
-t sua ne
-<<<<<<< ours
-t cung sua
-=======
-sua tiep
->>>>>>> theirs
+ t moi sua tren gihub
