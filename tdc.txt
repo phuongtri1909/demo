@@ -3,12 +3,9 @@ nay o remote ne
 hhhhhjjjjj
 ggg
 
-<<<<<<< HEAD
-tôi qua met oi
-hay song tich cuc len
-hương den tuong lai
-=======
 toi muon vui ve
+
 toi yeu cuoc song
+
 tran ngap thu vi
->>>>>>> origin/branchNew
+
